@@ -1,0 +1,28 @@
+.parent {
+    font-size: 50px;
+    background-color: lightblue;
+    /* height: 400px; */
+    /* display: flex;
+    flex-direction: column-reverse; */
+}
+
+.child {
+    background-color: grey;
+    border-radius: 15px;
+    padding: 10px 12px;
+    color: #fff;
+}
+
+
+/* .activate-flex {
+    display: flex;
+}
+.row {
+    flex-direction: row-reverse;
+}
+.column-reverse {
+    flex-direction: column-reverse;
+} */
+
+
+/* ADD MEDIA QUERY */
